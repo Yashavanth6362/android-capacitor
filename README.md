@@ -1,6 +1,6 @@
 # android-capacitor
 
-## Overview
+# Overview
 This template is created to be a starting point for developing mobile
 applications using web technologies.
 
